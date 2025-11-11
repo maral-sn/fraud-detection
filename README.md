@@ -38,4 +38,4 @@ The dataset used is from [Kaggle - Credit Card Fraud Detection](https://www.kagg
 ## 🔹 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/maral_sn/fraud-detection.git 
+   git clone https://github.com/maral-sn/fraud-detection.git 
